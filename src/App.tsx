@@ -1,6 +1,7 @@
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import CatGrid from './components/CatGrid';
+import CatMatcher from './components/CatMatcher';
 import HowItWorks from './components/HowItWorks';
 import SuccessStories from './components/SuccessStories';
 import Footer from './components/Footer';
@@ -12,6 +13,7 @@ export default function App() {
       <main>
         <Hero />
         <CatGrid />
+        <CatMatcher />
         <HowItWorks />
         <SuccessStories />
       </main>
@@ -19,5 +21,6 @@ export default function App() {
     </div>
   );
 }
+
 
 

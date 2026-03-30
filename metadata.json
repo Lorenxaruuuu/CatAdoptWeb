@@ -1,5 +1,5 @@
 {
   "name": "CatAdopt",
-  "description": "The purr-fect platform for finding your new feline companion. Browse, connect, and adopt cats in need of a loving home.",
+  "description": "A mobile premium cat adoption platform built with React Native, TypeScript, and Tailwind CSS, featuring a refined organic design and AI-integrated pet discovery.",
   "requestFramePermissions": []
 }
